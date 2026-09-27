@@ -1,3 +1,4 @@
+// Reviewed and finalized by Member 3 - BST and Hashing implementation
 class BSTNode {
     Student data;
     BSTNode left;
