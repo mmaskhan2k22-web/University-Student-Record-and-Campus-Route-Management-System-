@@ -1,3 +1,4 @@
+// Reviewed and finalized by Member 1 - Linked List implementation
 class StudentNode{
     Student data;
     StudentNode next;
